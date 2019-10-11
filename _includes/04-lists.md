@@ -1,1 +1,1 @@
-Replace this with a list of your favorite things.
+Pizza, success, wealth, will, smartness 
