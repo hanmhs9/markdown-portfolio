@@ -1,1 +1,5 @@
-Pizza, success, wealth, will, smartness 
+- Pizza
+- Success
+- Wealth
+- Will
+- Smartness 
